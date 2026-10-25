@@ -2,6 +2,10 @@
 
 A responsive To-Do List application built with React that helps users organize and manage their daily tasks.
 
+## Preview
+
+![React To-Do List Preview](screenshots/todo-list-preview.png)
+
 ## Features
 
 - **Add Tasks:** Create new tasks with ease.
